@@ -1,0 +1,4 @@
+/home/u12041041/clion-2016.3.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing
+CMake Error: The current CMakeCache.txt directory /home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/RGB_Exec/CMakeCache.txt is different than the directory /home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+-- Configuring incomplete, errors occurred!
+See also "/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/RGB_Exec/CMakeFiles/CMakeOutput.log".

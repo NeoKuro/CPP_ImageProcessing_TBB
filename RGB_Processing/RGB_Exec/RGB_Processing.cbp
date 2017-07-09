@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="RGB_Processing"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RGB_Processing">
+				<Option output="/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/RGB_Processing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.9/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.9/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.9"/>
+					<Add directory="/usr/include/c++/4.9/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 RGB_Processing"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RGB_Processing/fast">
+				<Option output="/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/RGB_Processing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.9/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.9/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/4.9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.9"/>
+					<Add directory="/usr/include/c++/4.9/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 RGB_Processing/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/main.cpp">
+			<Option target="RGB_Processing"/>
+		</Unit>
+		<Unit filename="/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

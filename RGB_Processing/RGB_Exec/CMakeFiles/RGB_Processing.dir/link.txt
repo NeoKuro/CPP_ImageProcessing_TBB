@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/RGB_Processing.dir/main.cpp.o  -o RGB_Processing -ltbb -lfreeimageplus 

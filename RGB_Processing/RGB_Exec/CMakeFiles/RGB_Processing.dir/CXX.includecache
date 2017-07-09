@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/u12041041/ConcurrentProgramming/CSWK2/RGB_Processing/main.cpp
+iostream
+-
+vector
+-
+tbb/task_scheduler_init.h
+-
+tbb/parallel_for.h
+-
+tbb/blocked_range2d.h
+-
+math.h
+-
+cstdlib
+-
+FreeImagePlus.h
+-
+chrono
+-
+functional
+-
+
